@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyebc100
-- 👀 I’m interested in Web apps
-- 🌱 I’m currently learning css
+- 👀 I’m interested in Roblox Exploits
+- 🌱 I’m currently Learning Visual Basic With We Are Devs roblox api
 - 💞️ I’m looking to collaborate on Slushnix#2021 on discord
 - 📫 How to reach me Add on discord ItsSwipe#0001
 
